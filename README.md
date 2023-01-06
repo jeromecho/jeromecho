@@ -3,7 +3,7 @@
 This is what I'm up to right now: 
 
 - Web-based projects using the **MERN** stack and **AWS**
-- **Object Detection** @UBCAgroBot using *PyTorch & OpenCV*
+- **Object Detection** @UBCAgroBot using **PyTorch & OpenCV**
 - **Microcontroller programming** with Arduino 
 
 These are some things I've done in the past: 
