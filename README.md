@@ -9,7 +9,7 @@ This is what I'm up to right now:
 These are some things I've done in the past: 
 
 - Systems programming with **Rust**
-- **Teaching** as a teaching assistant with my university's Department of Computer Science
+- **Teaching** as a teaching assistant with the University's Department of Computer Science
 
 These are some activites I love to do and that might make for an interesting conversation 
 
