@@ -13,7 +13,7 @@ These are some things I've done in the past:
 
 These are some activites I love to do and that might make for an interesting conversation 
 
-- Fishing (*30+ species* caught, currently learning fly fishing) 
+- Fishing (**30+ species** caught, currently learning fly fishing) 
 - Meditation 
 
 If you want to chat or work on something interesting together, you can contact me here: 
