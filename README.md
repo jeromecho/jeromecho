@@ -1,6 +1,4 @@
-👋 
-
-Hi, I’m Jerome, a current computer science *sophomore* at the University of British Columbia, Vancouver. 
+👋 Hi, I’m Jerome, a current computer science **sophomore** at the University of British Columbia, Vancouver. 
 
 This is what I'm up to: 
 
@@ -19,6 +17,7 @@ These are some activites I love to do and that might make for an interesting con
 - Meditation 
 
 If you want to chat or work on something interesting together, you can contact me here: 
+
 https://www.linkedin.com/in/jerome-cho-9a3059200/. 
 
 <!---
