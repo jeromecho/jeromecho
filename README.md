@@ -1,4 +1,4 @@
-I’m Jerome, a 3rd year computer science student at the University of British Columbia, Vancouver minoring in physics. 
+👋 I’m Jerome, a 3rd year computer science student at the University of British Columbia, Vancouver minoring in physics. 
 
 Here's some upcoming stuff:
 - Working as a software developer intern at SMART Technologies. 
