@@ -12,6 +12,7 @@ Also, I'm quite obsessed with fishing.
 
 <img src="https://github.com/jeromecho/jeromecho/assets/71617542/873d3b13-417f-4fab-8d68-a89a9664b38a" height="300" />
 
+
 If you want to chat, work, or fish together, you can contact me here: 
 
 https://www.linkedin.com/in/jerome-cho-9a3059200/. 
