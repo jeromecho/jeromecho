@@ -8,11 +8,11 @@ Here's some stuff I did:
 - Building object detection models for distinguishing crops and weeds @UBCAgroBot (PyTorch & OpenCV)
 - Serving as a Computer Science Teaching Assistant 
 
-As a human being, I'm quite obsessed with fishing. 
+Also, I'm quite obsessed with fishing. 
 
-![image0](https://github.com/jeromecho/jeromecho/assets/71617542/873d3b13-417f-4fab-8d68-a89a9664b38a)[500][400]
+<img src="https://github.com/jeromecho/jeromecho/assets/71617542/873d3b13-417f-4fab-8d68-a89a9664b38a" width="200" height="400" />
 
-If you want to chat or work on something interesting together, you can contact me here: 
+If you want to chat, work, or fish together, you can contact me here: 
 
 https://www.linkedin.com/in/jerome-cho-9a3059200/. 
 
