@@ -1,18 +1,16 @@
-👋 Hi, I’m Jerome, a current 3rd year computer science student at the University of British Columbia, Vancouver. 
+I’m Jerome, a 3rd year computer science student at the University of British Columbia, Vancouver minoring in physics. 
 
-This is what I'm up to right now: 
+Here's some upcoming stuff:
+- Working as a software developer intern at SMART Technologies. 
 
-- Web-based projects using the MERN stack and AWS
-- Object Detection @UBCAgroBot using PyTorch & OpenCV
+Here's some stuff I did: 
+
+- Building object detection models for distinguishing crops and weeds @UBCAgroBot (PyTorch & OpenCV)
 - Serving as a Computer Science Teaching Assistant 
 
-These are some things I've done in the past: 
+As a human being, I'm quite obsessed with fishing. 
 
-- Systems programming with Rust
-
-These are some activites I love to do and that might make for an interesting conversation 
-
-- Fishing (salt, river, lake) 
+![image0](https://github.com/jeromecho/jeromecho/assets/71617542/873d3b13-417f-4fab-8d68-a89a9664b38a)[500][400]
 
 If you want to chat or work on something interesting together, you can contact me here: 
 
