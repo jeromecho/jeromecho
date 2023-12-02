@@ -3,7 +3,7 @@
 I have a minor in physics and like math & science. 
 
 Here's some stuff I'm doing right now: 
-- Working as a software developer intern at SMART Technologies. I use JavaScript, Vue, and Firebase to improve student engagement through interactive lessons (see [Link lum.io]lum.io) 
+- Working as a software developer intern at SMART Technologies. I use JavaScript, Vue, and Firebase to improve student engagement through interactive lessons (see [lum.io](lum.io)) 
 
 Here's some stuff I did: 
 
