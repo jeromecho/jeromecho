@@ -1,4 +1,6 @@
-UBC Cpsc Honours (2026). Prev web developer at SMART Technolgoies. Prev research assistant at BC Cancer Michael Smith Genome Sciences Center and UBC Algorithms Lab (Ding Lab). Currently, building solutions for networking and cybersecurity at Infoblox using C and Python. 
+UBC Cpsc Honours (2026). 
+
+Prev web developer at SMART Technolgoies. Prev research assistant at BC Cancer Michael Smith Genome Sciences Center and UBC Algorithms Lab (Ding Lab). Currently, building solutions for networking and cybersecurity at Infoblox using C and Python. 
 
 Love low-level systems and hardware-facing software. Interested in applications of technology in healthcare. 
 
